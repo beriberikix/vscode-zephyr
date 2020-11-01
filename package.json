@@ -1,0 +1,15 @@
+{
+    "name": "vscode-zephyr",
+    "displayName": "Zephyr Extension Pack",
+    "description": "All the best extensions to help you develop Zephyr with Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "publisher.extensionName"
+    ]
+}
