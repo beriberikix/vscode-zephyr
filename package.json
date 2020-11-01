@@ -10,6 +10,11 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "publisher.extensionName"
+        "marus25.cortex-debug",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools",
+        "trond-snekvik.devicetree",
+        "trond-snekvik.gnu-mapfiles",
+        "trond-snekvik.kconfig-lang"
     ]
 }
