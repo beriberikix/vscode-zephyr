@@ -1,5 +1,5 @@
 {
-    "name": "vscode-zephyr",
+    "name": "vscode-zephyr-pack",
     "displayName": "Zephyr Extension Pack",
     "description": "All the best extensions to help you develop Zephyr with Visual Studio Code",
     "version": "0.0.1",
@@ -10,11 +10,14 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "cschlosser.doxdocgen",
+        "jeff-hykin.better-cpp-syntax",
         "marus25.cortex-debug",
         "ms-vscode.cmake-tools",
         "ms-vscode.cpptools",
         "trond-snekvik.devicetree",
         "trond-snekvik.gnu-mapfiles",
-        "trond-snekvik.kconfig-lang"
+        "trond-snekvik.kconfig-lang",
+        "twxs.cmake"
     ]
 }
